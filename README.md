@@ -1,17 +1,21 @@
-# LeetCode_Python
-
+# LeetCode in Go
+记录自己LeetCode之旅，总结其中的套路和方法，顺便学习Go。
 ## 目录
-* 数组
-  
-| 题号 | 难易  | 方法说明 | 标签 |
-| :------------: |:---------------:| :-----:| :-----:|
-| 1      | Easy | $1600aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa<br>aaaa |数组
 
+| No. | Title | Difficulty  | Solution | 
+| :------------: |:--------------------------------------------| :-----:| :-----:|
+| 0001      | Two Sum | Easy | [Go](LeetCode/0001TwoSum/0001.md) | 
+
+## 分类
+* 数组
 * 链表
+* 双指针
 * 二叉树
 * 哈希表
 * 字符串
+* 排序
 * 回溯算法
 * 贪心算法
 * 动态规划
-## 心得
+
+## 模板
